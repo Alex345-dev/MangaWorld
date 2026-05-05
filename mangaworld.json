@@ -14,7 +14,7 @@
     "searchBaseUrl": "https://www.mangaworld.mx/archive?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/Soony5/MangaWorld/refs/heads/main/mangaworld.js",
     "type": "mangas",
-    "asyncJS": true,
-    "novel": false,
-    "downloadSupport": false
+    "supportsDartotsu": true,
+    "supportsLuna": true,
+    "supportsAnymex": true
 }
