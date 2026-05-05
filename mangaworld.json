@@ -8,13 +8,13 @@
     },
     "version": "1.0.0",
     "language": "Italiano",
-    "streamType": "novels",
+    "streamType": "mangas",
     "quality": "Alta",
     "baseUrl": "https://www.mangaworld.mx/",
     "searchBaseUrl": "https://www.mangaworld.mx/archive?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/Soony5/MangaWorld/refs/heads/main/mangaworld.js",
-    "type": "novels",
+    "type": "mangas",
     "asyncJS": true,
-    "novel": true,
+    "novel": false,
     "downloadSupport": false
 }
